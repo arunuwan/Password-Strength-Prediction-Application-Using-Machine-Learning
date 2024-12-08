@@ -1,0 +1,2 @@
+password_strength_env\Scripts\activate
+python -m idlelib.idle
